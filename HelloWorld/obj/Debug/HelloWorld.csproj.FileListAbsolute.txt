@@ -7,3 +7,6 @@ D:\GitHubProject\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
 D:\GitHubProject\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
 D:\GitHubProject\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 D:\GitHubProject\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\Documents\GitHub\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Documents\GitHub\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Documents\GitHub\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
